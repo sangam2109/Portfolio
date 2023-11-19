@@ -1,0 +1,38 @@
+ 
+ {
+
+ "project": [
+        {
+            "title": "Athletic Meet Registeration",
+            "imgUrl": "./img/project/sportsmeet.png",
+            "tech": ["Tailwind CSS", "Mongo DB","Node JS","Express JS"],
+            "description": "This is web and app based solution for flexible Athletic mett registeration for colleges and schools",
+            "linkGithub": "https://github.com/Vansh1190/Sports22",
+            "linkWebsite": "https://sports2024.vercel.app/"
+        },
+        {
+            "title": "Questener:NLP based questgen generator",
+            "imgUrl": "./img/project/question.jpg",
+            "tech": [ "Python","React JS"],
+            "description": "Generating a question based on data entered by used using Natural Language Processing",
+            "linkGithub": "https://github.com/sangam2109/hackathon",
+            "linkWebsite": ""
+        },
+         {
+            "title": "Todo Web App",
+            "imgUrl": "./img/project/todo1.jpg",
+            "tech": ["React JS", "Javascript" , "CSS"],
+            "description": "A website which is used for making todolist having drag and drop feature also",
+            "linkGithub": "https://github.com/sangam2109/Todo-React-App",
+            "linkWebsite": "https://todo-react-app-delta-one.vercel.app/"
+        },
+          {
+            "title": "Dicitionary Website",
+            "imgUrl": "./img/project/dictionary.jpg",
+            "tech": [ "Javascript"] ,
+            "description": "A web based solution for Dictionary which is fetching data from Api",
+            "linkGithub": "https://github.com/sangam2109/Dictionary-website",
+            "linkWebsite": "https://dictionary-website-alpha.vercel.app/"
+        }
+    ]
+    }
